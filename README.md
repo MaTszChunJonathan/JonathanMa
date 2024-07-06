@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif)](https://MaTszChunJonathan.io)
+[![MasterHead](https://email.uplers.com/blog/wp-content/uploads/2020/07/GIF-blog.gif)](https://MaTszChunJonathan.io)
 
 <h1 align="center">Hi 👋, I'm Jonathan Ma</h1>
 <h3 align="center">Data analysis enthusiast with 2 years Cloud DevOps experience</h3>
