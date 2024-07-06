@@ -1,4 +1,4 @@
-[![MasterHead](https://as1.ftcdn.net/v2/jpg/04/39/63/56/1000_F_439635674_0mEVTGzc4w82vQQB8AmE9uGRvdeoUvGK.jpg)](https://MaTszChunJonathan.io)
+[![MasterHead](https://i.pinimg.com/originals/0c/1a/12/0c1a129ce95bb1e5716254e03f277600.gif)](https://MaTszChunJonathan.io)
 
 <h1 align="center">Hi 👋, I'm Jonathan Ma</h1>
 <h3 align="center">Data analysis enthusiast with 2 years Cloud DevOps experience</h3>
