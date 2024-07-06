@@ -1,4 +1,4 @@
-[![MasterHead](https://www.shutterstock.com/shutterstock/photos/2236217443/display_1500/stock-photo-big-data-technology-and-data-science-illustration-data-flow-concept-querying-analysing-2236217443.jpg)](https://JonathanMa.io)
+[![MasterHead](https://as1.ftcdn.net/v2/jpg/04/39/63/56/1000_F_439635674_0mEVTGzc4w82vQQB8AmE9uGRvdeoUvGK.jpg)](https://JonathanMa.io)
 
 <h1 align="center">Hi 👋, I'm Jonathan Ma</h1>
 <h3 align="center">Data analysis enthusiast with 2 years Cloud DevOps experience</h3>
