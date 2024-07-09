@@ -10,9 +10,9 @@
 
 - 📫 How to reach me **jonathanma637@gmail.com**
 
-- 📫 Resume projects:
-  **SP500-realtime-data-simulation**
-  **Netflix-User-Analysis-Dashboard**
+- 📫 Resume projects:<br />
+  **1. SP500-realtime-data-simulation**<br />
+  **2. Netflix-User-Analysis-Dashboard**
 
 <p align="left">
 </p>
