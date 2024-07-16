@@ -8,12 +8,14 @@
 
 - 🌱 I’m currently learning **Data analysis and Data Engineering**
 
-- 📫 How to reach me **jonathanma637@gmail.com**
-
 - 📫 Resume projects:<br />
   **1. HK-House-Price-Prediction-Web-App**<br />
   **2. SP500-realtime-data-simulation**<br />
   **3. Netflix-User-Analysis-Dashboard**
+
+- 📫 How to reach me **jonathanma637@gmail.com**
+
+
 
 <p align="left">
 </p>
