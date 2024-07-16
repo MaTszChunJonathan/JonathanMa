@@ -11,8 +11,9 @@
 - 📫 How to reach me **jonathanma637@gmail.com**
 
 - 📫 Resume projects:<br />
-  **1. SP500-realtime-data-simulation**<br />
-  **2. Netflix-User-Analysis-Dashboard**
+  **1. HK-House-Price-Prediction-Web-App**<br />
+  **2. SP500-realtime-data-simulation**<br />
+  **3. Netflix-User-Analysis-Dashboard**
 
 <p align="left">
 </p>
